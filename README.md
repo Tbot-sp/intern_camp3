@@ -1,5 +1,7 @@
 书生大模型项目
 -
+![Uploading 图片.png…]()
+
 本项目是小弟学习书生大模型的代码库、笔记、心得等等，希望能和大家共同学习！
 
 InternLM Tutorial GitHub 仓库
